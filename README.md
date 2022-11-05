@@ -7,7 +7,12 @@
 Для изображения схемы использовал draw.io 
 Предполагается частичное получение данных из одного источника по API, если удастся реализовать автоматизированную выгрзуку данных из 1С, то это также будет делаться автоматически (пока не представляю как это сделать). И оставшиеся данные буду собираться вручную.
 
-!["Diagram"](https://github.com/ave066/datalearn/blob/main/DE101/Module1/Diagram.PNG)
+!["Diagram"][def2]
 
-Примеры построенных дашбордов
+Такой дашборд в итоге получился. 
+Диаграммы подключены к срезам
+!["Dashboard"][def]
 
+
+[def]: https://github.com/ave066/datalearn/blob/main/DE101/Module1/dashboard.JPG?raw=true
+[def2]: https://github.com/ave066/datalearn/blob/main/DE101/Module1/Diagram.PNG
