@@ -20,5 +20,3 @@
 
 [def]: https://github.com/ave066/datalearn/blob/main/DE101/Module1/dashboard.JPG?raw=true
 [def2]: https://github.com/ave066/datalearn/blob/main/DE101/Module1/Diagram.PNG
-
-I can add this?
